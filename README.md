@@ -1,12 +1,10 @@
-### Hi there 👋
-
 <!--
 **rodriguessbarbara/rodriguessbarbara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
 
-<h1 align="center">Hello there,I'm Barbara Mendes</h1>
-<h3 align="center">Increasing myself as a Front-End developer and also passionate about UX/UI.</h3>
+<h2 align="left">Hello there, I'm Barbara Mendes</h1>
+<h3 align="center">I'm increasing myself as a Front-End developer and also passionate about UX/UI.</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
