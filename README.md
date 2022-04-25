@@ -4,7 +4,7 @@
 -->
 
 <h2 align="left">Hello there, I'm Barbara Mendes</h1>
-<h3 align="center">I'm increasing myself as a Front-End developer and also passionate about UX/UI.</h3>
+<h3 align="center">I'm increasing myself as a Front-End developer and also passionate about UX/UI Design.</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
