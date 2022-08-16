@@ -4,10 +4,10 @@
 -->
 
 <h2 align="left">Hello there, I'm Barbara Mendes</h1>
-<h3 align="center">I'm increasing myself as a Front-End developer and UI/UX.</h3>
+<h3 align="center">I'm increasing myself as a Front-End developer.</h3>
 
-- 🌱 I’m currently learning **JavaScript**
-- 💙 Also passionate about Mobile development.
+- 🌱 I’m currently learning **React**
+- 💙 Also passionate about UI/UX Design.
 - 👨‍💻 You can check my FrontEnd and Design portfolio [https://rodriguessbarbara.github.io/](https://rodriguessbarbara.github.io/)
 
 <h3 align="left"> You can find me on:</h3>
