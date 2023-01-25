@@ -38,11 +38,8 @@
 <h3 align="left"> You can find me on:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/rodriguessbarbara/" target="blank"/> <img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin"/>
-<a href="https://www.behance.net/rodriguessbarbara" target="blank"/> <img src="https://img.shields.io/badge/-behance-333333?style=flat&logo=behance"/>
-
+<a href="https://www.linkedin.com/in/rodriguessbarbara/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin" alt=""/></a>
+<a href="https://www.behance.net/rodriguessbarbara" target="_blank"> <img src="https://img.shields.io/badge/-behance-333333?style=flat&logo=behance" alt=""/></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-realinkdme-stats.vercel.app/api?username=rodriguessbarbara&show_icons=true&theme=dark&hide_border=true&locale=en" alt="rodriguessbarbara" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodriguessbarbara&label=Profile%20views&color=0e75b6&style=flat" alt="rodriguessbarbara" /> </p>
