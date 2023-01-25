@@ -38,8 +38,8 @@
 <h3 align="left"> You can find me on:</h3>
 <p align="left">
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)
-![Behance](https://img.shields.io/badge/-behance-333333?style=flat&logo=behance)
+![LinkedIn https://www.linkedin.com/in/rodriguessbarbara/](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)
+![Behance https://www.behance.net/rodriguessbarbara](https://img.shields.io/badge/-behance-333333?style=flat&logo=behance)
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodriguessbarbara&show_icons=true&theme=dark&hide_border=true&locale=en" alt="rodriguessbarbara" /></p>
