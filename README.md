@@ -6,9 +6,9 @@
 <h2 align="left">Hello there, I'm Barbara Mendes</h1>
 <h3 align="center">I'm increasing myself as a Full-Stack developer.</h3>
 
-- 🌱 I’m currently learning **React**
-- 💙 Also learning **Python** for back-end.
-- 👨‍💻 You can check my FrontEnd and UI portfolio [https://rodriguessbarbara.github.io/](https://rodriguessbarbara.github.io/)
+- 🌱 I’m currently learning **Next.js**
+- 💙 Also learning **TypeScript**.
+- 👨‍💻 You can check my FrontEnd portfolio [https://rodriguessbarbara.github.io/](https://rodriguessbarbara.github.io/)
 
 <h3 align="left">My Skills</h3>
 
