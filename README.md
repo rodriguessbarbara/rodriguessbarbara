@@ -7,12 +7,11 @@
 <h3 align="center">I'm increasing myself as a Full-Stack developer.</h3>
 
 - 🌱 I’m currently learning **Next.js**
-- 💙 Also learning **TypeScript**.
+- 💙 Also learning **Java**.
 - 👨‍💻 You can check my FrontEnd portfolio [https://rodriguessbarbara.github.io/](https://rodriguessbarbara.github.io/)
 
 <h3 align="left">My Skills</h3>
-
-<h4 align="left">Programming Languagues and Data</h4>
+<h4 align="left">Front-End</h4>
 <p align="left">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -21,7 +20,15 @@
 ![SASS](https://img.shields.io/badge/-sass-333333?style=flat&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+
+</p>
+
+<h4 align="left">Back-End and Data</h4>
+<p align="left">
+
 ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodejs)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 </p>
@@ -39,7 +46,6 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/rodriguessbarbara/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin" alt=""/></a>
-<a href="https://www.behance.net/rodriguessbarbara" target="_blank"> <img src="https://img.shields.io/badge/-behance-333333?style=flat&logo=behance" alt=""/></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodriguessbarbara&label=Profile%20views&color=0e75b6&style=flat" alt="rodriguessbarbara" /> </p>
