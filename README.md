@@ -3,15 +3,20 @@
 
 -->
 
-<h2 align="left">Hello there, I'm Barbara Mendes</h1>
-<h3 align="center">I'm increasing myself as a Full-Stack developer.</h3>
+## Hey you, I'm Barbara!
+### Full-Stack developer
 
-- 🌱 I’m currently learning **Next.js**
-- 💙 Also learning **Java**.
-- 👨‍💻 You can check my FrontEnd portfolio [https://rodriguessbarbara.github.io/](https://rodriguessbarbara.github.io/)
 
-<h3 align="left">My Skills</h3>
-<h4 align="left">Front-End</h4>
+## About me:
+
+- 🤔 3 years of experience in Technology, 1 year of which focused on development.
+- 💼 Working as a Backend Developer (Java) in a company.
+- 💙 Freelancer Front-End Developer (using mainly Javascript and ReactJS).
+- 🌱 I’m currently learning more about **Next.js**.
+- 👨‍💻 You may check my FrontEnd portfolio [https://rodriguessbarbara.github.io/](https://rodriguessbarbara.github.io/) .
+
+## My Skills
+#### Front-End
 <p align="left">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -24,7 +29,7 @@
 
 </p>
 
-<h4 align="left">Back-End and Data</h4>
+#### Back-End and Data
 <p align="left">
 
 ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodejs)
@@ -33,7 +38,7 @@
 
 </p>
 
-<h4 align="left">Tools</h3>
+#### Tools
 <p align="left">
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
