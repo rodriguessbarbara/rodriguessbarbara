@@ -3,16 +3,12 @@
 
 -->
 
-## Hey you, I'm Barbara!
-### Full-Stack developer
-
+## Hey, I'm Barbara! I'm a full-Stack developer
 
 ## About me:
 
 - 🤔 3 years of experience in Technology, 1 year of which focused on development.
-- 💼 Working as a Backend Developer (Java) in a company.
-- 💙 Freelancer Front-End Developer (using mainly Javascript and ReactJS).
-- 🌱 I’m currently learning more about **Next.js**.
+- 💼 Working as a Backend Developer (Java).
 - 👨‍💻 You may check my FrontEnd portfolio [https://rodriguessbarbara.github.io/](https://rodriguessbarbara.github.io/) .
 
 ## My Skills
@@ -34,6 +30,7 @@
 
 ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodejs)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 </p>
@@ -44,7 +41,6 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 </p>
 
 <h3 align="left"> You can find me on:</h3>
